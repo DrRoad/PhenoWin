@@ -2,10 +2,8 @@
 # W.DIR: path to the folder of the PhenoWin app
 # GEOTIF.DIR: path to the folder containing all the phenological raster
 
-#W.DIR <- dirname(rstudioapi::getActiveDocumentContext()$path)
-W.DIR = "/home/luxis/Dropbox/Kuhn/phenology/PhenoWin"
-GEOTIF.DIR = "//home//luxis//Dropbox//Kuhn//phenology//PhenoWin1//_DOY"
-#W.DIR = "L:\\Lucas\\phenology\\PhenoWin"
+W.DIR <- dirname(rstudioapi::getActiveDocumentContext()$path)
+GEOTIF.DIR = "..."
 setwd(W.DIR)
 
 source("Functions_Pheno.R")
