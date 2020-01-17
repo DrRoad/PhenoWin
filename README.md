@@ -8,8 +8,8 @@ The folder **_DOY** must contain the input raster files. There names are in form
 
 For example:
 ```
-DOY_201-1_1993.tif
-DOY_201-1_1997.tif
+DOY_202-10_2018.tif
+DOY_202-12_2018.tif
 ```
 + The crop code can be found in the **crops.csv** file.
 + The phase code can be found in the **Phases.csv** file.
