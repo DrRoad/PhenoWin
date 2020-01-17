@@ -3,7 +3,7 @@ Visualisation of phenological windows in Germany
 
 ## Setup
 ### Input Geotif Files
-The folder **_DOY** must contain the input raster files. There names are in format
+The folder **_DOY** must contain the phenological input raster files. There names follow the convention 
 *DOY_[3 digit crop code]-[1 or 2 digits phenology code]_[4 digit year].tif*.
 
 For example:
@@ -11,9 +11,8 @@ For example:
 DOY_202-10_2018.tif
 DOY_202-12_2018.tif
 ```
-+ The crop code can be found in the **crops.csv** file.
-+ The phase code can be found in the **Phases.csv** file.
-+ The value in the cells are the Day Of the Year of the phase transition.
++ The crop and phase codes can be found in the files **crops.csv** and **Phases.csv**.
++ The values in the cells represent the day of the years (DOY) of beginning phenological phases.
 ### Generation of the velox objects
 Launch **Extract_Pheno_Shapefile.R** to generate the velox objects used by the app in
 the **_Data** folder. It can take some time, depending of the number of input rasters.
