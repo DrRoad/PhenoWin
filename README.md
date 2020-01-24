@@ -7,7 +7,7 @@ Visualisation of phenological windows in Germany
 
 ## Setup
 ### Input Geotif Files
-The folder **_DOY** must contain the phenological input raster files. There names follow the convention 
+The folder **_DOY** must contain the phenological input raster files, which can be obtained from http://synops.julius-kuehn.de/phaenophase/. There names follow the convention 
 *DOY_[3 digit crop code]-[1 or 2 digits phenology code]_[4 digit year].tif*.
 
 For example:
