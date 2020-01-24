@@ -1,6 +1,10 @@
 # PhenoWin
 Visualisation of phenological windows in Germany
 
+# Author
++ Lucas Boutarfa
++ Email: lucas.boutarfa@gmail.com
+
 ## Setup
 ### Input Geotif Files
 The folder **_DOY** must contain the phenological input raster files. There names follow the convention 
