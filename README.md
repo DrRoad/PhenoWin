@@ -1,9 +1,9 @@
 # PhenoWin
 Visualisation of phenological windows in Germany
 
-## Author
-+ Lucas Boutarfa
-+ Email: lucas.boutarfa@gmail.com
+## Authors
++ Lucas Boutarfa, Markus Möller
++ Email: lucas.boutarfa@gmail.com, markus.moeller@julius-kuehn.de
 
 ## Setup
 ### Input Geotif Files
