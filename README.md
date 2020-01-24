@@ -1,7 +1,7 @@
 # PhenoWin
 Visualisation of phenological windows in Germany
 
-# Author
+## Author
 + Lucas Boutarfa
 + Email: lucas.boutarfa@gmail.com
 
