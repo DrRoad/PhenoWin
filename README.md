@@ -18,7 +18,7 @@ DOY_202-12_2018.tif
 + The crop and phase codes can be found and altered in the files **crops.csv** and **Phases.csv**.
 + The values in the cells represent the day of the years (DOY) of beginning phenological phases.
 ### Generation of the velox objects
-Launch **Extract_Pheno_Shapefile.R** to generate the velox objects used by the app in
+Launch **Extract_Geotif.R** to generate the velox objects used by the app in
 the **_Data** folder. It can take some time, depending of the number of input rasters.
 ## Usage
 Launch **Graph_Pheno.R** to start the app.
