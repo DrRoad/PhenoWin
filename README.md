@@ -15,7 +15,7 @@ For example:
 DOY_202-10_2018.tif
 DOY_202-12_2018.tif
 ```
-+ The crop and phase codes can be found in the files **crops.csv** and **Phases.csv**.
++ The crop and phase codes can be found and altered in the files **crops.csv** and **Phases.csv**.
 + The values in the cells represent the day of the years (DOY) of beginning phenological phases.
 ### Generation of the velox objects
 Launch **Extract_Pheno_Shapefile.R** to generate the velox objects used by the app in
